@@ -1,0 +1,11 @@
+city,recorded_at,temp_celsius,humidity_pct,wind_speed_mps,weather_desc,aqi,pm25,pm10,temp_fahrenheit,wind_speed_kph,heat_index,aqi_category,time_of_day
+São Paulo,2026-06-15 15:10:22.935138,16.16,91,1.79,moderate rain,22.0,12.0,12.2,61.088,6.444,42.19,Good,Afternoon
+Berlin,2026-06-15 15:10:22.343125,16.2,58,6.26,clear sky,22.0,3.6,8.1,61.16,22.536,31.340000000000003,Good,Afternoon
+Dubai,2026-06-15 15:10:21.515276,30.44,69,4.13,clear sky,81.0,63.3,75.7,86.792,14.868,49.21,Moderate,Afternoon
+Toronto,2026-06-15 15:10:20.713986,18.48,53,2.24,overcast clouds,18.0,6.2,6.3,65.264,8.064000000000002,31.97,Good,Afternoon
+Mumbai,2026-06-15 15:10:20.041090,30.69,66,6.22,broken clouds,38.0,14.6,36.9,87.242,22.392,48.47,Good,Afternoon
+Paris,2026-06-15 15:10:19.240159,25.24,52,1.16,light rain,21.0,4.6,8.1,77.432,4.176,38.4,Good,Afternoon
+Sydney,2026-06-15 15:10:18.422619,11.32,73,0.45,clear sky,21.0,11.1,15.0,52.376,1.62,31.409999999999997,Good,Afternoon
+Tokyo,2026-06-15 15:10:17.621016,16.88,88,0.56,scattered clouds,35.0,13.2,17.0,62.384,2.0160000000000005,41.92,Good,Afternoon
+London,2026-06-15 15:10:16.906054,19.33,68,2.68,overcast clouds,15.0,7.2,11.1,66.794,9.648000000000001,37.769999999999996,Good,Afternoon
+New York,2026-06-15 15:10:16.302991,24.5,43,3.13,clear sky,45.0,16.3,18.4,76.1,11.268,34.69,Good,Afternoon
